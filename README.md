@@ -18,10 +18,7 @@ You can use it in your userscript or project directly through [Github](https://r
 
 ### Usage
 
-Call the function, then pass the CSS style rules in the form of array.
-
-You're being returned the DOM element reference to do anything with the element.
-
+Call the function, then pass the CSS style rules in the form of an array.
 
 ```javascript
 const rules = [
